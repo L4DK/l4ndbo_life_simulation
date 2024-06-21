@@ -1,0 +1,22 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  - package-ecosystem: "pip" # Python package manager
+    directory: "/" # Location of package manifests, typically the root directory
+    schedule:
+      interval: "weekly" # Check for updates weekly
+    open-pull-requests-limit: 10 # Optional: Limit the number of open PRs
+    ignore:
+      - dependency-name: "example-package" # Optional: Ignore specific packages
+        versions: ["1.x", "< 2.0.0"] # Optional: Ignore specific versions
+    commit-message:
+      prefix: "deps" # Optional: Prefix for commit messages
+      prefix-development: "dev-deps" # Optional: Prefix for development dependency commit messages
+    labels:
+      - "dependencies" # Optional: Label for pull requests
+    assignees:
+      - "L4DK" # Optional: Assign pull requests to a specific user
