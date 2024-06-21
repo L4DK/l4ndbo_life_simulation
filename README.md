@@ -177,7 +177,7 @@ I hope this project inspires and educates others, offering a platform for furthe
 * **Historical Simulations:** Create historical simulations that replicate significant events in the history of life and evolution.
 
 By exploring these potential improvements and implementations, 
-the Life Simulation by![l4 logo text](https://l4ndbo.com/media/brand/l4/logo/l4-logo_16x14.svg) could become a more engaging, educational, and comprehensive tool for understanding the complexities of life and evolution.
+the Life Simulation by ![l4 logo text](https://l4ndbo.com/media/brand/l4/logo/l4-logo_16x14.svg) could become a more engaging, educational, and comprehensive tool for understanding the complexities of life and evolution.
 If you have additional ideas or want to collaborate on this project, feel free to reach out!
 
 
