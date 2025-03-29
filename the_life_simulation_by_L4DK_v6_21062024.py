@@ -998,6 +998,8 @@ def save_simulation(atoms, filename="simulation.pkl"):
     Returns:
         None
     """
+    if "../" in filename or "..\\" in filename:
+        raise Exception("Invalid file path")
     with open(filename, "wb") as file:
         pickle.dump(atoms, file)
 
@@ -1014,6 +1016,8 @@ def load_simulation(filename="simulation.pkl"):
     Returns:
         list: The simulation data loaded from the file.
     """
+    if "../" in filename or "..\\" in filename:
+        raise Exception("Invalid file path") 
     with open(filename, "rb") as file:
         return pickle.load(file)
 
