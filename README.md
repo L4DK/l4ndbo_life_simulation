@@ -1,4 +1,4 @@
-# ❤️‍🩹 Life Simulation by ![alt text](https://l4ndbo.com/media/brand/l4/logo/l4-logo_32x28.svg) ( L4DK )
+# ❤ Life Simulation by L4DK
 
 - **Author:** Michael Landbo
 - **Developer:** Michael Landbo
@@ -6,7 +6,7 @@
   
 - ![image](https://github.com/L4DK/l4ndbo_life_simulation/assets/115590310/fe12c8e3-de13-4a5d-b166-bc8946141a24) **On Github :**  [GitHub Profile](https://www.github.com/L4DK)
 - ![image](https://github.com/L4DK/l4ndbo_life_simulation/assets/115590310/695311dd-2b3d-4969-a26b-d2ff32ce4df9) **On LinkedIn:**  [LinkedIn Profile](https://www.linkedin.com/in/mlandbo/)
-- ![l4 logo text](https://l4ndbo.com/media/brand/l4/logo/l4-logo_16x14.svg) **On the interwebs:**  [L4ndbo Software Development](https://www.l4ndbo.com/)
+- **On the interwebs:**  [L4ndbo Software Development](https://www.l4ndbo.com/)
 
 # 📖 PROJECT Description
 Presenting: The "Life Simulation by ![alt text](https://l4ndbo.com/media/brand/l4/logo/l4-logo_16x14.svg)"
